@@ -1,4 +1,4 @@
-# pb_admin
+# 556_admin
 Simple Admin Menu
 
 NUI Admin Menu made mostly from vorp_admin functions. Credits to everybody that worked on vorp_admin
